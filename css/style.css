@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+}
+
+.header {
+  color: blue;
+  text-align: center;
+}
+
+#link {
+  background-color: aqua;
+}
